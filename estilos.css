@@ -1,0 +1,31 @@
+  *{
+         margin: 10px;
+     }
+     body {
+         background-color: coral;
+         margin: 10px;
+    }
+    header {
+        background-color: rgb(235, 118, 142);
+        padding: 5px;
+    }
+    nav {
+        margin: 2px;
+        padding: 15px 10px;
+    }
+    p{
+        background-color: burlywood;
+        text-align: justify;
+        padding: 10px;
+    
+    }
+    img{
+        border: 1px solid rgb(241, 0, 0);
+        border-radius: 5px;
+        padding: 5px;
+        width: 150px;
+        margin: 8px;   
+    }
+    footer p{
+        background-color: aquamarine;
+    }
